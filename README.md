@@ -1,4 +1,4 @@
-LIVE VIEW: https://tolgasahinn.github.io/FrontEndMentor-interactive-rating-component-main/
+LIVE VIEW: https://tolgasahinn.github.io/FrontEndMentorChallenges-interactive-rating-component-main/
 
 ----------------------------
 
